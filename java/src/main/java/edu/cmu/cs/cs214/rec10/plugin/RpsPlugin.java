@@ -14,9 +14,9 @@ public class RpsPlugin implements GamePlugin<String> {
     private static final int WIDTH = 3;
     private static final int HEIGHT = 1;
 
-    private static final String PLAYER_WON_MSG = "You won!";
-    private static final String COMPUTER_WON_MSG = "The computer won!";
-    private static final String GAME_TIED_MSG = "The game ended in a tie.";
+    private static final String PLAYER_WON_MSG = "You fail!";
+    private static final String COMPUTER_WON_MSG = "The comasdasdsasdputer lose!";
+    private static final String GAME_TIED_MSG = "Wulaaaa.";
 
     private static final String GAME_START_FOOTER = "You are playing Rocks Paper Scissors with a computer!";
 
